@@ -90,5 +90,3 @@ const getCategoriesMovie = async function(){
 
 //     });
 // }
-getTrending();
-getCategoriesMovie();
